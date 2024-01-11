@@ -1,4 +1,4 @@
-baseurl: 'http://khwong-c.github.io/magia-site'
+baseurl: '/magia-site'
 permalink: pretty
 title: 'Magia'
 
