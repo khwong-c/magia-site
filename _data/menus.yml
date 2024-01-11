@@ -1,15 +1,20 @@
 main:
   - name: "Home"
+    url: "/"
   - name: "Quick Start"
     submenu:
       - name: "Playground"
         url: "/playground/"
+      - name: "Installation"
+        url: "/tutorial/2-Install/"
       - name: "Tutorial"
         url: "/tutorials/"
-      - name: "Installation"
   - name: "Project"
     submenu:
       - name: "Roadmap"
+        url: "/roadmap/"
+      - name: "Feature Status"
+#        url: "/status/"
       - name: "Contributing"
   - name: "Documentation"
     submenu:
