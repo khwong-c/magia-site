@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: 'http://khwong-c.github.io/magia-site'
 permalink: pretty
 title: 'Magia'
 
@@ -25,6 +25,11 @@ defaults:
       type: "services"
     values:
       layout: "service"
+  - scope:
+      path: "tutorial"
+#      type: "tutorial"
+    values:
+      layout: "tutorial"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
