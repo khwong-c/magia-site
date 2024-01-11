@@ -1,0 +1,29 @@
+title: How Magia works
+steps:
+  - title: Build your design in Python
+    image:
+      src: /assets/images/how/build.png
+      width: 400
+      height: 400
+    description: |
+      ...
+      ...
+
+  - title: Elaborate to SystemVerilog
+    image:
+      src: /assets/images/how/elaborate.png
+      width: 400
+      height: 400
+    description: |
+      Magia will generate a SystemVerilog representation of your design.
+      Elaborated design can be output as file ...
+
+  - title: Integrate into your existing design flow
+    image:
+      src: /assets/images/how/integrate.png
+      width: 400
+      height: 400
+    description: |
+      ...
+      ...
+

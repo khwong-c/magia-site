@@ -1,0 +1,14 @@
+- name: Interactive Synthesis
+  url: https://synthesis.playable.city/
+  image:
+    src: /assets/images/playgrounds/synthesis.png
+    width: 400
+    height: 400
+  description: Synthesis is a free, open-source, online playground for exploring urban data. It is a platform for creating and sharing interactive maps and data visualizations of cities and urban data.
+- name: Simulation Playground
+  url: https://simulate.playable.city/
+  image:
+    src: /assets/images/playgrounds/simulate.png
+    width: 400
+    height: 400
+  description: Simulate is a free, open-source, online playground for exploring urban data. It is a platform for creating and sharing interactive maps and data visualizations of cities and urban data.

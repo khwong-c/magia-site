@@ -1,0 +1,21 @@
+main:
+  - name: "Home"
+  - name: "Quick Start"
+    submenu:
+      - name: "Playground"
+      - name: "Tutorial"
+      - name: "Installation"
+  - name: "Project"
+    submenu:
+      - name: "Roadmap"
+      - name: "Contributing"
+  - name: "Documentation"
+    submenu:
+    - name: "Examples"
+    - name: "API Reference"
+  - name: "Blog"
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
