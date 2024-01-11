@@ -12,5 +12,5 @@ assign tutorials = site.pages
 | sort: "step"
 %}
 {% for t in tutorials %}
-1. [{{ t.title }}]({{ t.url }})
+1. [{{ t.title }}]({{ site.baseurl }}{{ t.url }})
 {% endfor %}
